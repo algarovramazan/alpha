@@ -1,0 +1,16 @@
+node_modules/
+out/
+dist/
+BUILD/
+pkg/
+*.pkg.tar.zst
+*.log
+*.tsbuildinfo
+AGENTS.md
+MOD_API.md
+ALPHA_PROMPT.md
+DESIGN-apple.md
+DESIGN-linear.app.md
+PROJECT.md
+icons/drafts/
+.alpha/
